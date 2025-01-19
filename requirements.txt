@@ -1,0 +1,3 @@
+schwab-py
+python-dotenv
+selenium
